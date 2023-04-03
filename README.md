@@ -1,10 +1,16 @@
 # SPA Web POS
 
-<img src="assets/img/ss-01.png">
+<img src="assets/img/Screenshot%20(3720).png">
+<img src="assets/img/Screenshot%20(3722).png">
+<img src="assets/img/Screenshot%20(3724).png">
+<img src="assets/img/Screenshot%20(3724).png">
+<img src="assets/img/Screenshot%20(3725).png">
+<img src="assets/img/Screenshot%20(3726).png">
+<img src="assets/img/Screenshot%20(3727).png">
 
 #
 
-* GitHub Page : <a href="https://ashansandeep06.github.io/JS-Calculator/" target="_blank">https://ashansandeep06.github.io/JS-Calculator</a>
+* GitHub Page : <a href="https://ashansandeep06.github.io/SPA-Web-POS/" target="_blank">https://ashansandeep06.github.io/SPA-Web-POS</a>
 
 # 
 
@@ -18,12 +24,12 @@
 
 #### Clone this repository ✅
 ```md
-git clone https://github.com/AshanSandeep06/JS-Calculator
+git clone https://github.com/AshanSandeep06/SPA-Web-POS
 ```
 ###
 
 ### License 📝
-[![GitHub license](https://img.shields.io/github/license/AshanSandeep06/JS-Calculator?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/AshanSandeep06/JS-Calculator/blob/master/License.md)
+[![GitHub license](https://img.shields.io/github/license/AshanSandeep06/SPA-Web-POS?&labelColor=black&color=3867d6&style=for-the-badge)](https://github.com/AshanSandeep06/SPA-Web-POS/blob/master/License.md)
 
 <br>
 
@@ -58,10 +64,10 @@ git clone https://github.com/AshanSandeep06/JS-Calculator
 
 <div align="center">
 
-![repo size](https://img.shields.io/github/repo-size/AshanSandeep06/JS-Calculator?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/AshanSandeep06/JS-Calculator?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/AshanSandeep06/JS-Calculator?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/AshanSandeep06/JS-Calculator?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/AshanSandeep06/SPA-Web-POS?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/AshanSandeep06/SPA-Web-POS?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/AshanSandeep06/SPA-Web-POS?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/AshanSandeep06/SPA-Web-POS?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
 </div>
 
