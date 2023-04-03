@@ -90,6 +90,11 @@ git clone https://github.com/AshanSandeep06/SPA-Web-POS
 
 </h4>
 
+<div align="center"> 
+
+#### Developed by [Ashan Sandeep](https://github.com/AshanSandeep06)
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
