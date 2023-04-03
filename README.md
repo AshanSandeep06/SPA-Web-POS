@@ -1,14 +1,24 @@
 # SPA Web POS
 
 <img src="assets/img/Screenshot%20(3720).png">
+
+#
 <img src="assets/img/Screenshot%20(3722).png">
+
+#
 <img src="assets/img/Screenshot%20(3724).png">
-<img src="assets/img/Screenshot%20(3724).png">
+
+#
 <img src="assets/img/Screenshot%20(3725).png">
+
+#
 <img src="assets/img/Screenshot%20(3726).png">
+
+#
 <img src="assets/img/Screenshot%20(3727).png">
 
 #
+
 
 * GitHub Page : <a href="https://ashansandeep06.github.io/SPA-Web-POS/" target="_blank">https://ashansandeep06.github.io/SPA-Web-POS</a>
 
